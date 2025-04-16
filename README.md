@@ -1,2 +1,2 @@
-# cs50_projects
-The harvard uni cs50x projects.
+# cs50x_projects
+The harvard university online course cs50x projects.
